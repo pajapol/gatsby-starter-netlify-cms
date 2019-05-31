@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: The testing game
+title: The artwork of none
 image: /img/home-jumbotron.jpg
 heading: The testing game
 subheading: Support sustainable farming while enjoying a cup
