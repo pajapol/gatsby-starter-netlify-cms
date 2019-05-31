@@ -10,7 +10,7 @@ collections:
     label: "Amenities"
     folder: "src/pages/amenities"
     create: true 
-    slug:  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "amenities"}
       - {label: "Title", name: "title", widget: "string"}
