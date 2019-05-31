@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: The testing game
 image: /img/home-jumbotron.jpg
 heading: The testing game
 subheading: Support sustainable farming while enjoying a cup
